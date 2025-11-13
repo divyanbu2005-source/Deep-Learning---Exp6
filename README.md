@@ -142,6 +142,8 @@ for w,t,pd_ in zip(Xte[i], yte[i], p):
 
 **Sample Text Prediction**
 <img width="270" height="924" alt="image" src="https://github.com/user-attachments/assets/48658294-e4b6-42cb-8137-318b7f216ab4" />
+
+
 **RESULT**
 Thus, an LSTM-based model for recognizing the named entities in the text is successfully developed.
 
