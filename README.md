@@ -146,6 +146,5 @@ for w,t,pd_ in zip(Xte[i], yte[i], p):
 Thus, an LSTM-based model for recognizing the named entities in the text is successfully developed.
 
 
-**RESULT**
 
-Include your result here
+
